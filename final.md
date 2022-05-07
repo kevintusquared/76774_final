@@ -102,7 +102,6 @@ Big Picture is currently available on any PC running Windows 7 or newer, any Mac
 | Internet connection   | Broadband recommended        |
 | Controller   | Xbox 360 Wireless Controller for Windows, Xbox One or Xbox 360 Wired Controller, or Logitech Wireless Gamepad F710 recommended. Keyboard and mouse also supported.        |
 
-On the Mac, a third-party driver must be used to enable the Xbox 360 controller. A driver is available from TattieBogle.net.
 
 ### <a name="bigpic_launch"></a> How to launch Big Picture mode
 Once your computer is running on the desired display, launch Steam. Click the "Big Picture" button featured in the top right corner in the Steam client, or press the home button on your controller while using the Steam client. You can exit Big Picture's fullscreen mode by pressingALT + ENTER on your keyboard.
@@ -126,10 +125,12 @@ Any Steam game can be played while in Big Picture mode, though not all Steam gam
 To determine whether a game is controller-enabled, please refer to the following tags:
 
 Full Support
+![Alt](Assets/ico_controller.png)
 
 Titles marked with "Full Controller Support" indicate that they can be downloaded, launched and played using only a controller. These titles do not require a mouse or keyboard on hand for any configuration or in-game setup.
 
 Partial Support
+![Alt](Assets/ico_partial_controller.png)
 
 Titles marked with "Partial Controller Support" indicate that mouse and keyboard may be required from time to time. A controller may be used while in game, however installation, configuration and overall user interface may only be optimized for mouse and keyboard.
 
