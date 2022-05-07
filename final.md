@@ -1,5 +1,6 @@
 # Steam 
-![Alt](Assets/logo_steam.svg)
+<img src="Assets/logo_steam.jpg" alt="drawing" width="200"/>
+
 Steam is the ultimate destination for playing, discussing, and creating games.
 ## Table of Contents
 
