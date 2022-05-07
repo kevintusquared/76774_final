@@ -63,7 +63,7 @@ You can use the search field function within the Steam store to search for the g
 To use the advanced search function, click on the magnifying glass icon next to the search field and then click on "advanced search." Steam also lists current top sellers as well as games that are on sale.
 
 ### <a name="store_buy"></a> How do I buy a game?
-Steam is an alternative for buying PC games digitally, instead of having to own physical copies of games. When you buy a game from Steam, it downloads directly to your computer and automatically installs itself. 
+Steam is an alternative for buying PC games digitally, instead of having to own physical copies of games. When you buy a game from Steam, it downloads directly to your computer and automatically installs itself. Follow the steps below and start playing!
 
 1. Add games to your shopping cart by clicking on the "Add to Cart" button. This button will also list the price of the game as well as indicate whether or not the game is currently on sale. This will also bring you to your newly created shopping cart.
 ![Alt](Assets/cart.jpg)
