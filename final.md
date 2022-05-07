@@ -35,10 +35,9 @@
 
 ## <a name="steam"></a> Steam Client
 ### <a name="what"></a> What is Steam?
-Steam is an online platform where you can buy, play, create, and discuss PC games. We host  thousands of games (as well as downloadable content, or DLC, and user-generated features called "mods") from major developers and indie game designers alike.
+Steam is an online platform where you can buy, play, create, and discuss PC games. We host thousands of games (as well as downloadable content, or DLC, and user-generated features called "mods") from major developers and indie game designers alike.
 
-Steam is a cloud-based gaming library. One of its most popular features is the ability for users to use any computer to play games they buy/download to their Steam accounts. This also allows users to store a large collection of games without using too much computer memory. To use Steam, you have to download and install the Steam "engine" or app on your computer. Once you do that, you can access the full library of games, software, and forums.
-
+Steam is also a cloud-based gaming library. One of our most popular features is the ability you and other users to use any computer to play games they buy or download to their Steam accounts. This also allows you to store a large collection of games without using too much computer memory. To use Steam, you have to download and install the Steam "engine" or app on your computer. Once you do that, you have access to our full library of games, software, and forums!
 
 ## <a name="install"></a> Steam Installation
 Steam itself is free to use, and free to download. Here's how to get Steam, and start finding your own favorite games.
@@ -50,7 +49,7 @@ Steam itself is free to use, and free to download. Here's how to get Steam, and 
 
 If you encounter any difficulty with your installation, please see the [Contacting Steam Support](https://help.steampowered.com/en/faqs/view/6F69-0324-B2DB-6E7E) topic for instructions to contact Steam Support.
 
-If you are looking for information on how to uninstall Steam please see the [Uninstalling Steam](#https://help.steampowered.com/en/faqs/view/3C73-90F9-F600-0266) topic. 
+If you are looking for information on how to uninstall Steam please see the [Uninstalling Steam](https://help.steampowered.com/en/faqs/view/3C73-90F9-F600-0266) topic. 
 
 ## <a name="store"></a> Steam Store
 ### <a name="store_what"></a> What is the Steam Store?
@@ -58,7 +57,9 @@ The Steam Store, also known as the Steam Storefront, is a digital storefront for
 
 ### <a name="store_find"></a> How do I find a game I want to play?
 You can use the search field function within the Steam store to search for the games you want to buy. If you do not have a particular game in mind to buy, you can use advanced search functions to seek for a game by genre, price, developer, publisher, category, operating system, and Metascore.
+
 ![Alt](Assets/search.jpg)
+
 To use the advanced search function, click on the magnifying glass icon next to the search field and then click on "advanced search." Steam also lists current top sellers as well as games that are on sale.
 
 ### <a name="store_buy"></a> How do I buy a game?
