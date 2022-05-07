@@ -1,3 +1,6 @@
+# Steam 
+![Alt](Assets/logo_steam.svg)
+Steam is the ultimate destination for playing, discussing, and creating games.
 ## Table of Contents
 
 + [Steam Client](#steam)
