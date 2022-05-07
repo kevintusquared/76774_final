@@ -66,17 +66,22 @@ To use the advanced search function, click on the magnifying glass icon next to 
 Steam is an alternative for buying PC games digitally, instead of having to own physical copies of games. When you buy a game from Steam, it downloads directly to your computer and automatically installs itself. Follow the steps below and start playing!
 
 1. Add games to your shopping cart by clicking on the "Add to Cart" button. This button will also list the price of the game as well as indicate whether or not the game is currently on sale. This will also bring you to your newly created shopping cart.
+
 ![Alt](Assets/cart.jpg)
+
 If you have not previously done so, you will need to enter digital payment information.
 
 2. Access your cart when you are ready to check out and buy the games you selected. Once you have items in your shopping cart, a green "cart" button will appear in the upper right portion of your steam application. It will also list, in parenthesis, the number of items you have in the cart. 
+
 ![Alt](Assets/buy.jpg)
 
 3.  Choose whether to buy the game for yourself or whether you want to send it as a gift to a friend or family member.
 If you are sending the game as a gift, you can either have the information sent to the person's email address with information on how to access the gift, or allow them to unlock it directly through Steam.
+
 ![Alt](Assets/checkout.jpg)
 
 4.  Finalize your order by viewing the "Review + Purchase" screen, checking the terms box, and clicking the "purchase" button. 
+
 ![Alt](Assets/endbuy.jpg)
 
 
