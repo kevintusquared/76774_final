@@ -164,6 +164,16 @@ You can log into the Steam client and visit the "Family" tab in Settings, where 
 Or, you can remotely deauthorize computers from the web. Visit your Account Details page, and then select "Manage Family Library Sharing". Using either the client or the web site, you can view all currently authorized devices and accounts and use the revoke link to deauthorize any or all of them.
 
 ### <a name="sharing_faq"></a> Family Library Sharing Frequently Asked Questions
++ [Can I share my games with users that don't live with me?](#sharing1)
++ [I want to play my own games, but they're being played by another account. What do I do?](#sharing2)
++ [Can I share specific games?](#sharing3)
++ [Can all Steam games be shared?](#sharing4)
++ [Can two users share a library and both play at the same time?](#sharing5)
++ [Is there a limit to the number of accounts I can share my Library with?](#sharing6)
++ [Can DLC and in-game content be shared?](#sharing7)
++ [Can region-restricted games be shared across regions?](#sharing8)
++ [What if a borrower is caught cheating or committing fraud while playing my shared games?](#sharing9)
+
 ### <a name="sharing1"></a> Can I share my games with users that don't live with me?
 While Family Sharing can work for users that are not accessing Steam from the same location, due to technical limitations, the feature may encounter issues that Steam is unable to provide support for.
 ### <a name="sharing2"></a> I want to play my own games, but they're being played by another account. What do I do?
