@@ -53,16 +53,20 @@ You need to install the Steam client in order to take full advantage of the Stea
 Follow the steps below to get Steam up and running:
 
 1. Go to [steampowered.com](http://steampowered.com). This will direct you to Steam's main store page. 
-![Alt](Assets/Screenshot%20(169).png)
+
+    ![Alt](Assets/Screenshot%20(169).png)
 
 2. Click on the green "Install Steam" icon. This will direct you to the download link for Steam's installer.
-![Alt](Assets/Screenshot%20(164).png)
+
+    ![Alt](Assets/Screenshot%20(164).png)
 
 3. Click on the blue "INSTALL STEAM" icon. This will begin the download for the Steam installer. It will be named "SteamSetup.exe"
-![Alt](Assets/Screenshot%20(165).png)
+
+    ![Alt](Assets/Screenshot%20(165).png)
 
 4. Run the Steam installer and follow the prompts. 
-![Alt](Assets/Screenshot%20(167).png)
+
+    ![Alt](Assets/Screenshot%20(167).png)
 
 Once the Steam installer finishes, Steam is ready to use on your system!
 
