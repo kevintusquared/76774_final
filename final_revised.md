@@ -154,10 +154,12 @@ You can filter user reviews by a number of different tags, such as positive or n
 Follow the steps below to buy a game on the Steam Store:
 
 1. Click on the "Add to Cart" icon on the game's store page. This will add the game to your shopping cart and bring you to your shopping cart. 
-![Alt](Assets/Screenshot%20(193).png)
+
+    ![Alt](Assets/Screenshot%20(193).png)
 
 2. Click on the "Purchase for myself" icon. This will bring you to the checkout page. 
-![Alt](Assets/Screenshot%20(194).png)
+
+    ![Alt](Assets/Screenshot%20(194).png)
 
 3. Fill out your payment information and click "Purchase".
 
